@@ -11,7 +11,7 @@ To begin, create a new branch off of master.  You can name the branch whatever y
     git checkout -b merge-conflict-activity-1
     ```  
 
-    In the new branch, modify one of the existing files.  Then add and commit the changes...
+    In the new branch, modify one of the existing files.  Then add and commit the changes.
 
     ```
     git commit -am "Conflict activity change 1"
