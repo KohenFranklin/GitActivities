@@ -1,0 +1,6 @@
+Your Favorite Quote:
+the fool doth think he is wise but the wise man knows himself to be a fool. meaning
+Who said it (yes, it can be from a movie)
+William Shakespeare (from his play As You Like It)
+What is your preferred tech stack (Java/Microsoft/MySql/Sql/Postgres/Vue/Angular/React/HTML/PHP)
+HTML/CSS/JS, React, Python, Java, MySQL
